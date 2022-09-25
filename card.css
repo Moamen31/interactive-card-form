@@ -174,11 +174,10 @@ main {
         margin-top: 20px;
     }
     .cards .front-card .front-card-info .bottom-info{
-        width: 90%;
         margin: 25px auto 0;
     }
     .cards .front-card .front-card-info .bottom-info h3{
-        font-size: 13px;
+        font-size: 11px;
     }
     .cards .front-card .front-card-info .bottom-info span{
         font-size: 13px;
